@@ -1,2 +1,2 @@
-/data_input
-/generator_files
+.data_input/
+.generator_files/
